@@ -1,6 +1,6 @@
 {
   "name": "moped-sync-store-tests",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A test suite for use with any moped-sync-store.",
   "keywords": [],
   "dependencies": {
