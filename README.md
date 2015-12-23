@@ -2,7 +2,7 @@
 
 A test suite for use with any moped-sync-store.
 
-[![Dependency Status](https://img.shields.io/gemnasium/mopedjs/moped-sync-store-tests.svg)](https://gemnasium.com/mopedjs/moped-sync-store-tests)
+[![Dependency Status](https://img.shields.io/david/mopedjs/moped-sync-store-tests.svg)](https://david-dm.org/mopedjs/moped-sync-store-tests)
 [![NPM version](https://img.shields.io/npm/v/moped-sync-store-tests.svg)](https://www.npmjs.org/package/moped-sync-store-tests)
 
 ## Installation
